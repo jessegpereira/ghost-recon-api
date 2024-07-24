@@ -1,0 +1,39 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "produto": "Tom Clancy's Ghost Recon Wildlands",
+      "descricao": "É um jogo de tiro táctico em terceira pessoa em mundo aberto, Wildlands é o décimo título da série Tom Clancy's Ghost Recon e o primeiro que tem um ambiente em mundo aberto.",
+      "foto": "jogo1.PNG",
+      "preco": 300
+    },
+    {
+      "id": "2",
+      "produto": "Tom Clancy's Ghost Recon: Future Soldier",
+      "descricao": "É o quarto capitulo da série Ghost Recon, e foi anunciado em janeiro de 2009 pela Ubisoft. Pela primeira vez na série o jogo tem um argumento futurista.",
+      "foto": "jogo2.PNG",
+      "preco": 200
+    },
+    {
+      "id": "3",
+      "produto": "Tom Clancy's Ghost Recon: Breakpoint",
+      "descricao": "O distante arquipélago está isolado do resto do mundo devido à hostilidade da Skell Technology. Os Wolves, uma equipe renegada de operações especiais, comandada por seu ex-companheiro, assumiu o controle e está perseguindo você.",
+      "foto": "jogo3.PNG",
+      "preco": 400
+    },
+    {
+      "id": "4",
+      "produto": "Ghost Recon: Shadow Wars",
+      "descricao": "Tom Clancy's Ghost Recon: Shadow Wars é um jogo eletrônico do gênero táticas por turnos, criado na Europa, pela Ubisoft, em 25 de março de 2011.",
+      "foto": "jogo4.PNG",
+      "preco": 250
+    },
+    {
+      "id": "0",
+      "produto": "Tom Clancy's Ghost Recon Phantoms",
+      "descricao": "20 anos no futuro , o jogo mudou e a supremacia no campo de batalha é ditada pela tecnologia. Em um mundo movido por interesses econômicos, a ATHENA Corp. começou a vender suas armas e tecnologia para o maior lance.",
+      "foto": "jogo5.PNG",
+      "preco": 289
+    }
+  ]
+}

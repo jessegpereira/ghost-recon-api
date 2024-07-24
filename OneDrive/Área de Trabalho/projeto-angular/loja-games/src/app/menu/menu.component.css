@@ -1,22 +1,22 @@
 .example-spacer {
-    flex: 1 1 auto;
-  }
-
-span{
-    padding: 10px;
+  flex: 1 1 auto;
 }
 
-  img{
-    height: 50px;
-    width: 50px;  
-  }
+span {
+  padding: 10px;
+}
 
-  a{
-    text-decoration: none;
-    color: white;
-  }
+img {
+  height: 50px;
+  width: 50px;
+}
 
-.mat-toolbar{
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.mat-toolbar {
   background-color: black;
   color: white;
   padding: 10px 20px;

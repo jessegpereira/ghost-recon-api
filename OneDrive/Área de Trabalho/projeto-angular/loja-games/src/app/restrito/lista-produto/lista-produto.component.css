@@ -1,0 +1,13 @@
+table img {
+    color: white;
+    height: 50px;
+    width: 50px;
+}
+
+table tbody tr td {
+    color: white;
+}
+
+table thead tr th {
+    color: white;
+}
